@@ -36,7 +36,7 @@
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="80%">
 
 
 
