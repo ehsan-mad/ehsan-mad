@@ -182,7 +182,7 @@ const ehsan = {
 ### 🎨 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehsan-mad&label=PROFILE+VIEWS" alt="GitHub Views"/>
+  <img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=ehsan-mad&amp;&amp;style=flat-square">
   <img src="https://img.shields.io/github/followers/ehsan-mad?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-green?style=flat-square" alt="Open to Work" />
 </div>
