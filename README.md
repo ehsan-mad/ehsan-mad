@@ -181,7 +181,11 @@ const ehsan = {
 
 ### 🎨 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-<img src="https://komarev.com/ghpvc/?username=ehsan-mad&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ehsan-mad&color=blueviolet&style=for-the-badge&label=👁️+Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ehsan-mad?color=blue&style=for-the-badge&logo=github&label=👥+Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Available+for+Work-brightgreen?style=for-the-badge&logo=checkmarx" alt="Work Status" />
+</div>
 
 <br/>
 
